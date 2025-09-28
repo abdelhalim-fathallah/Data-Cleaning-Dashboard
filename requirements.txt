@@ -1,0 +1,14 @@
+```
+streamlit
+pandas
+numpy
+scikit-learn
+pycountry
+fpdf2
+rapidfuzz
+plotly
+python-Levenshtein
+pyspellchecker
+recordlinkage
+openpyxl
+```
